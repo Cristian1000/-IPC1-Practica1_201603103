@@ -1,7 +1,7 @@
-public class Juego {
+ublic class Juego {
     private int x;
     private int y;
-    private char simbolo;
+    char simbolo;
 
     public int getX() {
         return x;
@@ -26,6 +26,4 @@ public class Juego {
     public void setSimbolo(char simbolo) {
         this.simbolo = simbolo;
     }
-    
-    
 }
